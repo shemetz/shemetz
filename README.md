@@ -1,16 +1,16 @@
-## Hi there 👋
+If you're here you probably know me from my FoundryVTT modding.  Here's the list of modules I own and maintain (they're all V12-compatible):
 
-<!--
-**shemetz/shemetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**Zoom/Pan Options**](https://github.com/shemetz/ZoomPanOptions) - Adds various options for zooming and panning the canvas such as zooming around the cursor and touchpad support
+- [**Quick Send To Chat**](https://github.com/shemetz/roll-from-compendium) - Quickly send chat cards for items/actors/etc from their header or compendium
+- [**Precise Drawing Tools**](https://github.com/shemetz/precise-drawing-tools) - Makes drawing tools more precise (no snapping/resistance) and adds a color picker hotkey
+- [**TokenMagic Automatic Wounds**](https://github.com/shemetz/tokenmagic-automatic-wounds) - Automatically apply wounds (TMFX) to tokens based on their health
+- [**Remote Highlight UI**](https://github.com/shemetz/remote-highlight-ui) - Highlight any UI elements you want on other players' screens (useful for teaching them how to use Foundry)
+- [**Alternative Rotation**](https://github.com/shemetz/AlternativeRotation) - Rotate objects in a direction that makes them face your cursor
+- [**Pf2E Modifiers Matter**](https://github.com/shemetz/pf2e-modifiers-matter) - Highlight situations where status effects change the outcome of a roll.
+- [**pf2E Extempore Effects**](https://github.com/shemetz/pf2e-extempore-effects) - Quickly create custom Effects based on chat messages (useful for afflictions)
+- [**pF2e See Simple Scale Statistics**](https://github.com/shemetz/pf2e-see-simple-scale-statistics) - Color-code statistics on NPC sheets based on how good they are
+- [**Pf2e Crowdsourced Community Corrections**](https://github.com/shemetz/pf2e-crowdsourced-community-corrections) - Apply up to ~50 "unofficial pf2e errata" patches
+- [**One Roll Engine**](https://github.com/shemetz/one-roll-engine) - Used for ORE-based RPG systems (they roll many d10s and mark sets)
+- [Shemetz's Macros](https://github.com/shemetz/shemetz-macros) - Personal (non-published) module where I collect and create little scripts for my own games (e.g. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you have a problem or request about any module, feel free to reach out to me on discord (`shemetz`) or even better, submit a github ticket to the relevant issues tab.
