@@ -8,8 +8,9 @@ If you're here you probably know me from my FoundryVTT modding.  Here's the list
 - [**Alternative Rotation**](https://github.com/shemetz/AlternativeRotation) - Rotate objects in a direction that makes them face your cursor
 - [**Pf2E Modifiers Matter**](https://github.com/shemetz/pf2e-modifiers-matter) - Highlight situations where status effects change the outcome of a roll.
 - [**pf2E Extempore Effects**](https://github.com/shemetz/pf2e-extempore-effects) - Quickly create custom Effects based on chat messages (useful for afflictions)
-- [**pF2e See Simple Scale Statistics**](https://github.com/shemetz/pf2e-see-simple-scale-statistics) - Color-code statistics on NPC sheets based on how good they are
+- [**pF2e See Simple Scale Statistics**](https://github.com/shemetz/pf2e-see-simple-scale-statistics) - Color-code statistics on NPC sheets based on how good they are, and warnings for creature-building
 - [**Pf2e Crowdsourced Community Corrections**](https://github.com/shemetz/pf2e-crowdsourced-community-corrections) - Apply up to ~50 "unofficial pf2e errata" patches
+- [**PF2e Technicolor Traits**](https://github.com/shemetz/pf2e-technicolor-traits) - Color-coded traits, sorted and highlighted for your convenience (makes Incapacitation easy to spot)
 - [**One Roll Engine**](https://github.com/shemetz/one-roll-engine) - Used for ORE-based RPG systems (they roll many d10s and mark sets)
 - [Shemetz's Macros](https://github.com/shemetz/shemetz-macros) - Personal (non-published) module where I collect and create little scripts for my own games
 
