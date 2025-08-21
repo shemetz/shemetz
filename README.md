@@ -1,4 +1,4 @@
-If you're here you probably know me from my FoundryVTT modding.  Here's the list of modules I own and maintain (they're all V12-compatible):
+If you're here you probably know me from my FoundryVTT modding.  Here's the list of modules I own and maintain (they're all V13-compatible):
 
 - [**Zoom/Pan Options**](https://github.com/shemetz/ZoomPanOptions) - Adds various options for zooming & panning the canvas, e.g. zooming around the cursor, touchpad support
 - [**Quick Send To Chat**](https://github.com/shemetz/roll-from-compendium) - Quickly send chat cards for items/actors/etc from their header or compendium
